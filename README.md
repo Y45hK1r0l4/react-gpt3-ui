@@ -1,16 +1,35 @@
-# React + Vite
+# GPT-3 Modern UI/UX
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and fully responsive GPT-3 landing page built with React and CSS. This project focuses on creating a visually appealing user interface using reusable React components, Flexbox, CSS variables, and responsive design techniques.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* Responsive navigation bar with mobile menu
+* Modern landing page design
+* Reusable React components
+* CSS Flexbox layouts
+* BEM-style CSS naming convention
+* Smooth responsive experience across devices
+* Clean and maintainable project structure
 
-## React Compiler
+## Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* React
+* Vite
+* JavaScript (ES6+)
+* CSS3
+* React Icons
 
-## Expanding the ESLint configuration
+## Learning Outcomes
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Through this project, I practiced:
+
+* Component-based architecture in React
+* Responsive web design
+* CSS Flexbox and media queries
+* BEM naming methodology
+* Project structuring and code organization
+
+## Acknowledgements
+
+This project was built by following the GPT-3 UI/UX tutorial from Adrian Hajdin (JavaScript Mastery) for educational purposes and personal learning.
