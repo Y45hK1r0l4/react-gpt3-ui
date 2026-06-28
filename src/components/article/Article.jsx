@@ -1,4 +1,5 @@
 import React from 'react'
+import './article.css'
 
 function Article({imgUrl, date, title}) {
   return (
